@@ -1,0 +1,16 @@
+[package]
+name = "problem_tree_search"
+version = "0.1.0"
+authors = ["ArtInLines"]
+edition = "2021"
+description = "Traits to describe your problem as a tree-searching problem with several algorithms to then solve said problem."
+readme = "README.md"
+repository = "https://github.com/ArtInLines/Problem-Tree-Search"
+license = "MIT"
+keywords = ["search", "tree", "graph"]
+categories = ["algorithms", "data-structures"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+priority-queue = "1.2.3"
