@@ -14,6 +14,7 @@
 
 mod data_structures;
 mod search;
+mod tests;
 mod traits;
 
 pub use data_structures::*;
